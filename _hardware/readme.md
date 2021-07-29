@@ -1,4 +1,4 @@
 
 # Hardware Section
 
-<img src="./_hardware/a12-KB.jpg?raw=true" height="300">
+<img src="./a12-KB.jpg?raw=true" height="300">
