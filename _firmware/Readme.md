@@ -1,6 +1,6 @@
 # Firmware
 
-1. Circuit Python for Pi PICO can be downloaded from [Here](https://circuitpython.org/board/raspberry_pi_pico/). Additional Library for circuitpython can be downloaded from [Here](https://circuitpython.org/libraries).
+1. Circuit Python for Pi PICO can be downloaded from [Here](https://circuitpython.org/board/raspberry_pi_pico/).  Additional Library for circuitpython can be downloaded from [Here](https://circuitpython.org/libraries).
 
 2. KMK Firmware
     * PreCompiled can be downloaded from [Here](https://cdn.kmkfw.io/kmk-latest.zip);
