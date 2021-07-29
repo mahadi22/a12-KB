@@ -1,5 +1,8 @@
 # a12-KB Mechanical Keyboard
 
+## ⚠️Note:                         
+*Use it on your own risk, i'm not responsible for anything wrong that will happen to your RPI Pico for using this script/firmware. If its bricked but bootloader still accessible, you can use FlashNuke.uf2 to reflash your Pico*
+
 This handwired mechanical keyboard using [Raspberry Pi Pico](https://datasheets.raspberrypi.org/pico/pico-datasheet.pdf) with [RP2040 Chip](https://datasheets.raspberrypi.org/rp2040/rp2040-datasheet.pdf). 
 
 Using [CircuitPython](https://circuitpython.org/board/raspberry_pi_pico/) platform and [KMK Firmware](https://github.com/KMKfw/kmk_firmware) the keyboard can be configure any way you want with multiple layer and also RGB Led/underglow can be added.
