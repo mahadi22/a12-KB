@@ -11,3 +11,8 @@ The Case i'm using are from [Thingiverse](https://www.thingiverse.com/thing:4832
 <img src="./_hardware/a12-KB.jpg?raw=true" height="300">
 
 <img src="./_hardware/3D_Case.png?raw=true" height="200">
+
+
+
+Raspberry Pi Pico have 26 free/available port, so you can use 6x18 matrix using 24 port to make full 104/108 key keyboard with 2 spare port for led/encoder.
+[Pi Pico Pinout](https://datasheets.raspberrypi.org/pico/Pico-R3-A4-Pinout.pdf)
